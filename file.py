@@ -1,7 +1,6 @@
 def sum(x,y):
-    prod=x*y
-    return prod
+    a=x+y
+    return a
 
-x=100;y=200
+x=10;y=20
 print(sum(x,y))
-print("good")
