@@ -4,5 +4,5 @@ def product(x,y):
     return prod
 
 
-x=10;y=20
+x=1000;y=2000
 print(product(x,y))
