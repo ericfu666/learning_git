@@ -1,6 +1,6 @@
-def sum(x,y):
-    a=x+y
-    return a
+def product(x,y):
+    prod=x*y
+    return prod
 
 x=10;y=20
-print(sum(x,y))
+print(product(x,y))
