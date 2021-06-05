@@ -1,6 +1,4 @@
 
-def sum(x,y):
-    return x+y
 def product(x,y):
     prod=x*y
     return prod
