@@ -15,3 +15,4 @@ def div(x,y):
 x=100000;y=200000
 print(product(x,y))
 print(sub(x,y))
+print(div(x,y))
