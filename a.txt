@@ -1,9 +1,1 @@
-What the fuck is happening!
-heihei
---------------------------------------
-def love(x,y):
-	return x+y
-
-x=10;y=20
-print(love(x,y))
-print("woaini")
+我改了！！！！
