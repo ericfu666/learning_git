@@ -4,8 +4,7 @@ def product(x,y):
     return prod
 
 def sum(x,y):
-    s=x+y
-    return s
+    return x+y
 
 
 def sub(x,y):
