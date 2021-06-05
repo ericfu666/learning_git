@@ -1,5 +1,10 @@
+
 def sum(x,y):
     return x+y
+def product(x,y):
+    prod=x*y
+    return prod
+
 
 x=10;y=20
-print(sum(x,y))
+print(product(x,y))
