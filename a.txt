@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 This is the change from github.
-By ftc
+By FTC
